@@ -12,6 +12,13 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
+    env:
+      DB_USER: root
+      DB_PASSWORD: test_password
+      DB_HOST: 127.0.0.1
+      DB_PORT: "3306"
+      DB_NAME: traceflow
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
