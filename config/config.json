@@ -1,0 +1,6 @@
+{
+  "tax_rate": 0.2,
+  "input_file": "data/input.csv",
+  "output_file": "data/output.csv",
+  "pipeline_name": "Sales Data Pipeline"
+}

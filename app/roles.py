@@ -1,0 +1,4 @@
+class Role:
+    ADMIN = "ADMIN"
+    DEVELOPER = "DEVELOPER"
+    VIEWER = "VIEWER"

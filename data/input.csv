@@ -1,0 +1,16 @@
+id,name,city,product,amount,status
+1,Vivek,Pune,Laptop,55000,Completed
+2,Rahul,Mumbai,Mobile,25000,Completed
+3,Amit,Nashik,Headphones,3000,Pending
+4,Sneha,Pune,Monitor,18000,Completed
+5,Priya,Nagpur,Keyboard,2500,Cancelled
+6,Rohan,Mumbai,Mouse,1200,Completed
+7,Neha,Pune,Laptop,60000,Completed
+8,Akash,Nashik,Mobile,22000,Pending
+9,Pooja,Pune,Tablet,18000,Completed
+10,Kunal,Mumbai,Keyboard,3000,Cancelled
+11,Snehal,Nagpur,Monitor,15000,Completed
+12,Aditya,Pune,Mobile,28000,Completed
+13,Sakshi,Nashik,Laptop,58000,Pending
+14,Rohit,Mumbai,Headphones,5000,Completed
+15,Anjali,Pune,Tablet,20000,Completed
